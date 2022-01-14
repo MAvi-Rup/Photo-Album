@@ -37,7 +37,7 @@ body{
     display: block;
     background-color: rgba(250, 190, 166, 0.501)
 }
-.photo-detail h3{
+.photo-detail h3,p{
     text-align: center;
 }
 .photo-frame:hover .photo img{
